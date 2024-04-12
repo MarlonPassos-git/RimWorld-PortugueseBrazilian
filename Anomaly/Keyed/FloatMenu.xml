@@ -2,21 +2,21 @@
 <LanguageData>
 
   <!-- EN: No empty containment destination -->
-  <NoEmptyEntityHolders>TODO</NoEmptyEntityHolders>
+  <NoEmptyEntityHolders>sem local para confinamento</NoEmptyEntityHolders>
   <!-- EN: choose containment destination -->
-  <ChooseEntityHolder>TODO</ChooseEntityHolder>
+  <ChooseEntityHolder>escolha local para confinamento</ChooseEntityHolder>
   <!-- EN: Containment strength -->
-  <FloatMenuContainmentStrength>TODO</FloatMenuContainmentStrength>
+  <FloatMenuContainmentStrength>Intensidade de Confinamento</FloatMenuContainmentStrength>
   <!-- EN: {0_label} requires -->
-  <FloatMenuContainmentRequires>TODO</FloatMenuContainmentRequires>
+  <FloatMenuContainmentRequires>{0_label} exigidos</FloatMenuContainmentRequires>
   <!-- EN: Reserved by -->
-  <EntityHolderReservedBy>TODO</EntityHolderReservedBy>
+  <EntityHolderReservedBy>Reservado por</EntityHolderReservedBy>
 
   <!-- EN: Talk to {0_nameDef} -->
-  <TalkTo>TODO</TalkTo>
+  <TalkTo>Converse com {0_nameDef}</TalkTo>
   <!-- EN: Cannot talk to {0_nameDef} -->
-  <CannotTalkTo>TODO</CannotTalkTo>
+  <CannotTalkTo>Não converse com {0_nameDef} </CannotTalkTo>
   <!-- EN: incapable of suppression -->
-  <ZeroSuppressionRate>TODO</ZeroSuppressionRate>
+  <ZeroSuppressionRate>Incapaz de supressão</ZeroSuppressionRate>
 
 </LanguageData>
